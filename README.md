@@ -3,10 +3,10 @@
 - CSS 3 (SASS, Bootstrap, MaterialUi, Materialize)
 - JavaScript
 - ReactJS
-- Klipfolio (Dashboards BI)
 - NodeJS
 - SQL (MySql, GraphQL, MariaDB)
 - NoSQL (MongoDb, Firebase)
+- Klipfolio (Dashboards BI)
 - Jest (Studying...)
 - ReactNative (Studying...)
 
