@@ -1,6 +1,6 @@
 💻 Techs 💻
 - HTML 5
-- CSS 3 (SASS, Bootstrap, MaterialUi, Materialize)
+- CSS 3 / SASS
 - JavaScript
 - ReactJS
 - NodeJS
